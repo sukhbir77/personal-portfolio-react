@@ -15,4 +15,4 @@ This repository contains the code for my personal portfolio website, developed u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sukhbir77/portfolio-react.git
+   git clone https://github.com/sukhbir77/personal-portfolio-react.git
